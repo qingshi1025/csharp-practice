@@ -1,2 +1,2 @@
 # csharp-practice
-github小白的第一个仓库
+github的第一个仓库-c#练习
