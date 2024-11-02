@@ -1,7 +1,0 @@
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\bin\Debug\task1.exe.config
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\bin\Debug\task1.exe
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\bin\Debug\task1.pdb
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\obj\Debug\task1.csproj.AssemblyReference.cache
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\obj\Debug\task1.exe
-E:\2539737530\FileRecv\Csharp任务\csharp\task1\obj\Debug\task1.pdb
